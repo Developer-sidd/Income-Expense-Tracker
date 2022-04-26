@@ -4,6 +4,6 @@ App to Track Your Income and Expense using HTML,CSS and JS
 
 <p align="center">
   <a href="https://codepen.io/developer-sidd/pen/KKZjadW">
-    <img src="Snap.png" alt="Codepen">
+    <img src="Snap.png" alt="See this demo on Codepen">
   </a>
 </p>
